@@ -12,7 +12,7 @@
 
 <img src="https://raw.githubusercontent.com/ztz-nobot/festa-poster-prompt-generator/main/preview.png" width="300" alt="poster preview">
 
-*春天的樱花市集海报 · 夏天的海港灯光节海报 · 秋天的图书馆野餐周海报 · 冬天的可可街市集海报*
+*端午节海报*
 
 ---
 
