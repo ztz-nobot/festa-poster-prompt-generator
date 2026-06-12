@@ -61,11 +61,11 @@ Hermes 会自动加载 zdesign skill 并生成提示词。
 | `SEASON` | ✅ | spring / summer / autumn / winter |
 | `DATE` | ❌ | 5.10(Fri) - 5.19(Sun)、6月19日 |
 | `LOCATION` | ❌ | 中央广场、Central Market Street |
-| `THEME_COLOR` | ❌ | 不填则自动匹配季节 |
-| `MASCOTS` | ❌ | 不填则自动匹配季节 |
-| `CITY_BACKDROP` | ❌ | 不填则自动匹配季节 |
-| `ICON_SET` | ❌ | 不填则自动匹配季节 |
-| `TAGLINE` | ❌ | 不填则自动匹配季节 |
+| `THEME_COLOR` | ❌ | 不填则自动匹配 |
+| `MASCOTS` | ❌ | 不填则自动匹配 |
+| `CITY_BACKDROP` | ❌ | 不填则自动匹配 |
+| `ICON_SET` | ❌ | 不填则自动匹配 |
+| `TAGLINE` | ❌ | 不填则自动匹配 |
 | `ASPECT_RATIO` | ❌ | 9:16（默认竖版）或 16:9 |
 
 不需要填满所有变量，最少只需要 **活动名 + 季节 + 日期** 三个。
